@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">schooltest1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="nav_class">9a</string>
+    <string name="nav_school">ПТГ "Никола Й. Вапцаров"</string>
+
+    <string name="menu_monday">Понеделник</string>
+    <string name="menu_tuesday">Вторник</string>
+    <string name="menu_wednesday">Сряда</string>
+    <string name="menu_thursday">Четвъртък</string>
+    <string name="menu_friday">Петък</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+</resources>
